@@ -1,0 +1,28 @@
+
+Importing Model from XMI
+Root Package: EA32 Sequence Diagram
+Add Classifier: Alice
+Add Classifier: Bob
+Resolving Classifiers
+Resolving Owners
+Resolving Attribute Types
+Resolving Parameter Types
+Resolving Owned Member Types
+Adding Tagged Values
+Adding Note Links
+Adding Connectors
+Resolving Association-Classes
+Resolving Linked Element Features For Note
+Resolving Child Elements for Activity Partition
+Adding Exception Handler Connectors
+Resolving Generalization Sets
+Resolving Messages on Communication Diagram
+Resolving Specialized Properties for Association
+Resolving Properties for Association Ends
+Add Diagrams
+Retrieving Contents For Diagram : EA32 Sequence Diagram
+Adding Diagram : EA32 Sequence Diagram
+Resolving DiagramIDs
+Resolving Note links
+Fixup external references
+Import Complete!
